@@ -125,6 +125,6 @@ See [changelog.md](./changelog.md) for full version history.
 
 ## Author
 
-Paul Forlando
+Paul Orlando
 Creative Technologist | AI Agent Developer | Data Analytics
 🌐 [paulforlando.com](https://www.paulforlando.com)
